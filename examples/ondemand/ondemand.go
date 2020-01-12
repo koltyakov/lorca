@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zserge/lorca"
+	"github.com/koltyakov/lorca"
 )
 
 var siteURL string

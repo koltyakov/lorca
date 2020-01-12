@@ -13,7 +13,7 @@ cat > $APP/Contents/Info.plist << EOF
 	<key>CFBundleIconFile</key>
 	<string>icon.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.zserge.lorca.example</string>
+	<string>com.koltyakov.lorca.example</string>
 </dict>
 </plist>
 EOF
